@@ -1,32 +1,34 @@
 
 # landing page
 
-Una interfaz moderna y  construida con HTML5 y CSS3, diseñada para agencias de servicios, fotógrafos y organizaciones que buscan gestionar su comunidad y escalar su negocio.
+A modern interface built with HTML5 and CSS3, designed for service agencies, photographers, and organizations looking to manage their community and scale their business.
+In its first phase, it is available for desktop; however, the next step is to make it fully responsive for all screen sizes.
 
-en su primera fase esta disponible para escritorio, pero el paso a seguir es que se encuentre disponible para todas pantallas 
 
-##  Tecnologías Utilizadas
+##  Technologies Used
 
-*   **HTML5:** Estructura semántica completa (header, main, section, article).
-*   **CSS3:** Maquetación (Flexbox/Grid sugerido) y diseño visual.
-*   **Google Fonts / Iconos:** Implementación de recursos visuales y tipografía.
+HTML5: Full semantic structure (header, main, section, article).
+CSS3: Advanced layout (Flexbox/Grid suggested) and visual design.
+Google Fonts / Icons: Implementation of typography and visual resources.
 
-# Cómo usarlo
+
+# How to use
 
 1. **Clona el repositorio:**
 2. **Navega a la carpeta:**
     ```bash
     cd nombre-del-repo
     ```
-3.  **Abre el archivo principal:**
-    Simplemente abre el archivo `index.html` en tu navegador preferido o usa la extensión **Live Server** en VS Code.
+3.  **Open the main file:**
+    SSimply open the  file `index.html` in your preferred browser or use the Live Server extension in VS Code. 
 
-##  Estructura de Carpetas
+
+##  Folder Structure
 
 ```text
-img              # Contiene todos los activos visuales (
-css              # Archivos de estilos 
-index.html          # Documento principal
+img              # Contains all visual assets.
+css              # Stylesheets. 
+index.html          # Main document.
 ```
 
 visit page:
