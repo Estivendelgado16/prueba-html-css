@@ -1,0 +1,199 @@
+
+
+
+
+/* le quito las margenes y el padding a la hoja*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* declaro las etiquetas que voy a usar por defecto*/
+h1{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 76px;
+    color: #4D4D4D;
+}
+
+h2{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    color: #4D4D4D;
+}
+
+p{
+    font-weight: 400;
+    font-style: regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #717171;
+}
+
+
+/* le quito las margenes y el padding a el body*/
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
+header{
+    padding: 2% 5%;
+}
+
+.contHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.contLinks{
+    display: flex;
+    list-style: none;
+    gap: 60px;
+    padding: 0% 5%;
+}
+
+.contLinks, a{
+    text-decoration: none;
+    font-family: 'inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: black;
+}
+
+.login{
+    display: flex;
+    gap: 10px;
+}
+
+.login button{
+    width: 65px;
+    height: 40px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+}
+
+.btnLeft button{
+    color: #4CAF4F;
+    background-color: #F5F7FA;
+    border: none;
+}
+
+.btnRigth button{
+    background-color: #4CAF4F;
+    border: none;
+   
+}
+
+.contHero{
+    width: 80%;
+    padding: 5% 15% 2% 10%;
+    background-color: #F5F7FA;
+}
+
+/*main*/
+.hero{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.heroText span{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 76px;
+    color: #4CAF4F;
+}
+
+.btnRegister {
+    background-color: #4CAF4F;
+    border: none;
+    width: 128px;
+    height: 52px;
+    border-radius: 4px;
+    padding: 14px 32px;
+}
+
+.imgHero img{
+    width: 391px;
+}
+
+.dot{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+/*section clients*/
+.contClients{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 60px;
+    gap: 30px;
+}
+
+.contClients h2{
+    display: flex;
+    justify-content: center;
+}
+
+.imgsClients {
+    width: 100%;
+    display:flex ;
+    flex-direction:row;
+   
+    justify-content: space-evenly;
+}
+
+.imgsClients img{
+    display: flex;
+    
+}
+
+/* section community*/
+
+
+.contCommunity{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.communityBottom{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 30px 100px;
+}
+
+.cards{
+    width: 100%;
+    background-color: #FFFFFF ;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px#ABBED133;
+    
+}
+
+.cardIMg{
+    display: flex;
+    justify-content: center;
+}
+
+.textCommunity{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
