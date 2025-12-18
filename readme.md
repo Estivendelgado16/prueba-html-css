@@ -30,7 +30,7 @@ index.html          # Documento principal
 ```
 
 coder: brallam estiven delgado buritica 
-clan: Thompson
-correo: brallamdelgado351@gmail.com
-cc: 1000089289
+    clan: Thompson
+    correo: brallamdelgado351@gmail.com
+    cc: 1000089289
 
