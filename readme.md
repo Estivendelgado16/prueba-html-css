@@ -27,9 +27,10 @@ en su primera fase esta disponible para escritorio, pero el paso a seguir es que
 img              # Contiene todos los activos visuales (
 css              # Archivos de estilos 
 index.html          # Documento principal
-
+```
 
 coder: brallam estiven delgado buritica 
 clan: Thompson
 correo: brallamdelgado351@gmail.com
 cc: 1000089289
+
