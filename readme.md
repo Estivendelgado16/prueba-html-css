@@ -5,7 +5,7 @@ Una interfaz moderna y  construida con HTML5 y CSS3, diseñada para agencias de 
 
 en su primera fase esta disponible para escritorio, pero el paso a seguir es que se encuentre disponible para todas pantallas 
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 *   **HTML5:** Estructura semántica completa (header, main, section, article).
 *   **CSS3:** Maquetación (Flexbox/Grid sugerido) y diseño visual.
@@ -21,7 +21,7 @@ en su primera fase esta disponible para escritorio, pero el paso a seguir es que
 3.  **Abre el archivo principal:**
     Simplemente abre el archivo `index.html` en tu navegador preferido o usa la extensión **Live Server** en VS Code.
 
-## 📁 Estructura de Carpetas
+##  Estructura de Carpetas
 
 ```text
 img              # Contiene todos los activos visuales (
